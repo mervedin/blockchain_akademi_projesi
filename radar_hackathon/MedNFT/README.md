@@ -1,7 +1,7 @@
 # MedNFT Project
 
 ## Overview
-MedNFT is a blockchain-based platform that allows individuals to securely sell their health data, such as radiology reports and images (e.g., X-rays, MRIs), while maintaining their anonymity. The data will be validated, transformed into NFTs, and made available for purchase.
+The MedNFT project aims to address the critical challenge of data scarcity in artificial intelligence, especially within the healthcare sector. As AI systems require vast amounts of high-quality data to function effectively, obtaining this data has proven difficult in many areas, particularly in health-related fields. MedNFT provides a secure platform that allows individuals to sell their health data as NFTs, ensuring their anonymity and privacy throughout the process. By leveraging blockchain technology, MedNFT empowers individuals to take control of their health information, creating value for both data providers and researchers while contributing to the development of AI solutions in healthcare.
 
 ## Steps for Development
 
